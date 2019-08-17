@@ -1,5 +1,5 @@
 # Home
-Hi welcome to everyone
+Welcome to everyone
 =========================
 Rules:
 
